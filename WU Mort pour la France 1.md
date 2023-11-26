@@ -3,7 +3,7 @@
 Auteur : Kawas
 <https://ozint.eu/ozinter/4630/>
 
-##### 1. Quel est le prénom du soldat considéré comme étant le dernier soldat français mort sur le sol français avant l'armistice ?
+### 1. Quel est le prénom du soldat considéré comme étant le dernier soldat français mort sur le sol français avant l'armistice ?
 
 On doit ici faire attention à tous les mots : avec une recherche Google DERNIER SOLDAT FRANCAIS MORT SUR LE SOL FRANCAIS 1918, on trouve plusieurs liens, le premier est celui de wikipedia :
 <https://fr.wikipedia.org/wiki/Augustin_Tr%C3%A9buchon>
@@ -16,7 +16,7 @@ De nombreuses sources en parlent, citons celle-ci :
 
 Il s'agit donc d'**Augustin Trébuchon**
 
-##### 2. Quel est son numéro matricule ?
+### 2. Quel est son numéro matricule ?
 
 La première note en bas de sa page wikipedia annonce "Fiche matricule no 906 d'Augustin Trébuchon"
 
