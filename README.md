@@ -8,7 +8,7 @@ En novembre 2023 j'ai participé au CTF Disparue(s) organisé par Oscar Zulu, un
 Puis en tant que créateur de challenge au NBCTF 2023, une première aussi, avec des challenges faciles et d'autres qui vous auront fait enrager.
 J'espère que vous trouverez ici quelques solutions :)
 
-Et plus à l'avenir certainement...
+Je reviendrai mettre des captures d'écran et faire un rendu plus propre, pour le moment c'est purement fonctionnel
 
 Kawas
 https://ozint.eu/ozinter/4630/
