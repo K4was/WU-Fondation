@@ -5,7 +5,7 @@
 Auteur : Kawas
 <https://ozint.eu/ozinter/4630/>
 
-##### **1. Qu'abrite ce bâtiment ?**
+### **1. Qu'abrite ce bâtiment ?**
 
 On trouve le lieu avec une recherche en reverse :
 
@@ -15,7 +15,7 @@ C'est la maison où habitait Georges Clemenceau et qui abrite maintenant un mus�
 
 réponse : **musee-clemenceau**
 
-##### **2. Quel CMS a été utilisé pour construire son site ?**
+### **2. Quel CMS a été utilisé pour construire son site ?**
 
 On peut chercher ce qu'est un CMS.
 Une recherche QU'EST-CE QU'UN CMS nous permet de trouver ce site :
