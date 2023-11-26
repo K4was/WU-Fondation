@@ -1,4 +1,8 @@
 ## WU Mort pour la France 4
+
+Auteur : Kawas
+<https://ozint.eu/ozinter/4630/>
+
 ### 1. Un jardin de la mémoire portant son nom a été créé. Dans quelle ville est-il situé ?
 
 Deux villes sont citées dans les sources : plusieurs sources touristiques et plus ou moins officielles donnent Rethondes. Wikipedia donne Rethondes sur la page d'Augustin Trébuchon.
@@ -16,6 +20,8 @@ Et sur Maps :
 <https://www.google.com/maps/place/60200+Compi%C3%A8gne/@49.4179216,2.8874512,14z/data=!4m6!3m5!1s0x47e7d5e621cbedd7:0x40af13e81644610!8m2!3d49.417816!4d2.826145!16zL20vMDFxejd6?entry=ttu>
 
 réponse : **Compiègne**
+
+
 ### 2. Où était auparavant posée la pierre que l'on peut y voir, qui porte l'inscription "A nos morts, INDOCHINE, AFRIQUE DU NORD, OPERATIONS EXTERIEURES" ?
 
 Partons visiter le jardin de la mémoire. Ssur le site du mémorial on trouve des photos, dont celle du monument dont parle la question :
