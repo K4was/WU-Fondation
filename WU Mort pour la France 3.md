@@ -1,6 +1,9 @@
 ## WU Mort pour la France 3
 
-##### 1. Pourquoi la date de son décès sur sa tombe est-elle du 10 novembre 1918 ? (vous donnerez le titre du paragraphe de sa page)
+Auteur : Kawas
+<https://ozint.eu/ozinter/4630/>
+
+### 1. Pourquoi la date de son décès sur sa tombe est-elle du 10 novembre 1918 ? (vous donnerez le titre du paragraphe de sa page)
 
 La mention "Mort pour la France" est antidatée, pour lui comme pour comme pour les autres Français morts le 11 novembre 1918.
 <https://en.wikipedia.org/wiki/Augustin_Tr%C3%A9buchon>
@@ -9,7 +12,9 @@ L'auteur du livre en parle :
 <https://www.youtube.com/watch?v=6Rs9mvI_cNg>
 
 réponse : **antidatée**
-##### 2. Une vidéo -au contenu controversé- sur ce soldat a été postée par un Élu sur Facebook. Une erreur s'y est glissée. Quelle est-elle ? (On demande le mot erroné)
+
+
+### 2. Une vidéo -au contenu controversé- sur ce soldat a été postée par un Élu sur Facebook. Une erreur s'y est glissée. Quelle est-elle ? (On demande le mot erroné)
 
 L'Elu ici porte le nom de Néo, héros du film Matrix.
 Sa vidéo a été postée sur Facebook par néoTV :
