@@ -35,7 +35,8 @@ Deux possibilités :
 
 Une recherche **CTRL +F plugin** nous donne, dans les commentaires, à la ligne 13 :
 
-![Screenshot from 2023-11-27 19-43-18](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/da403ad7-bd00-43e7-af6b-8acc781917a0)
+![Screenshot from 2023-11-27 19-50-47](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/ad68b07a-4704-40ff-8a70-e00ac1ebc028)
+
 
 
 
