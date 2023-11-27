@@ -9,7 +9,7 @@ Auteur : Kawas
 
 ## 1. Quel est le prénom du soldat considéré comme étant le dernier soldat français mort sur le sol français avant l'armistice ?
 
-On doit ici faire attention à tous les mots : avec une recherche Google DERNIER SOLDAT FRANCAIS MORT SUR LE SOL FRANCAIS 1918, on trouve plusieurs liens, le premier est celui de wikipedia :
+On doit ici faire attention à tous les mots : avec une recherche Google **DERNIER SOLDAT FRANCAIS MORT SUR LE SOL FRANCAIS 1918**, on trouve plusieurs liens, le premier est celui de wikipedia :
 
 ![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/5a6f80dc-92ed-46cd-a688-b90f5e02c8c7)
 
@@ -21,7 +21,7 @@ Sur la page wikipedia d'Augustin Trébuchon, on trouve un paragraphe qui pose au
 ![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/36cfb6f2-cde2-4fcf-85fa-9443846ac669)
 
 
-Augustin Trébuchon sembêtre malgré tout considéré comme le dernier soldat français mort sur le sol français en 1918 :
+Augustin Trébuchon semble être malgré tout considéré comme le dernier soldat français mort sur le sol français en 1918 :
 
 ![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/86c93c92-d103-4d9e-b94f-5b76c270306e)
 
@@ -42,7 +42,7 @@ La première note en bas de sa page wikipedia annonce "Fiche matricule no 906 d
 ![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/b74be473-955b-4d43-a450-10c4ca201081)
 
 
-On peut vérifier sur des images de ses papiers militaires avec la recherche NUMERO MATRICULE AUGUSTIN TREBUCHON
+On peut vérifier sur des images de ses papiers militaires avec la recherche **NUMERO MATRICULE AUGUSTIN TREBUCHON**
 
 ![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/edc57564-75d6-40e1-b5d6-ba82516959b3)
 
