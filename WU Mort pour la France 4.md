@@ -10,7 +10,7 @@ Auteur : Kawas
 
 Deux villes sont citées dans les sources : plusieurs sources touristiques et plus ou moins officielles donnent Rethondes. Wikipedia donne Rethondes sur la page d'Augustin Trébuchon.
 
-Une recherche CLAIRIEREARMIS TICE COMPIEGNE OU RETHONDES ? nous amène au site de Compiègne agglomération qui traite de cette confusion :
+Une recherche **CLAIRIERE ARMISITICE COMPIEGNE OU RETHONDES ?** nous amène au site de Compiègne agglomération qui traite de cette confusion :
 
 <https://www.agglo-compiegne.fr/clairiere-de-larmistice>
 
@@ -44,7 +44,7 @@ Partons visiter le jardin de la mémoire. Sur le site du mémorial on trouve des
 
 
 
-L'information sur la provenance de la pierre est plus difficile à trouver.  Première obstacle, on ne devait pas chercher l'origine de la pierre, plutôt se renseigner sur le lieu où elle est actuellement avec les mots AUGUSTIN TREBUCHON JARDIN MEMOIRE.
+L'information sur la provenance de la pierre est plus difficile à trouver.  Première obstacle, on ne devait pas chercher l'origine de la pierre, plutôt se renseigner sur le lieu où elle est actuellement avec les mots **AUGUSTIN TREBUCHON JARDIN MEMOIRE**.
 
 L'information est donnée par une video audioguide postée sur youtube par le site du Mémorial de l'Armistice et non référencée sur le site.
 
