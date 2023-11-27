@@ -24,13 +24,17 @@ réponse : **mention antidatée**
 
 ## 2. Une vidéo -au contenu controversé- sur ce soldat a été postée par un Élu sur Facebook. Une erreur s'y est glissée. Quelle est-elle ? (On demande le mot erroné)
 
-![IMG_6429](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/0fe5b721-d167-4aa4-97aa-2b9378ada4fb)
+On peut utiliser ici l'information donnée, Facebook, pour les mots de recherche : **AUGUSTIN TREBUCHON SITE:FACEBOOK.COM**, puis l'onglet **Videos**
+
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/98537686-3b0c-44e1-8c11-9bbfc89ac299)
 
 
-L'Elu ici porte le nom de Néo, héros du film Matrix.
+L'Elu ici porte le nom de Néo, clin d'oeil au héros du film Matrix.
 Sa vidéo a été postée sur Facebook par néoTV :
 
 <https://www.facebook.com/neotvofficiel/videos/augustin-tr%C3%A9buchon-le-dernier-soldat-fran%C3%A7ais-mort-pour-la-france-en-1918/1010560326155266/>
+
+
 
 ![IMG_6430](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/9925cbda-cea5-418d-b26e-d5e624e6d213)
 
