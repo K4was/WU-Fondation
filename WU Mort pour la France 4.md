@@ -36,34 +36,53 @@ la réponse était bien **Compiègne**
 
 ## 2. Où était auparavant posée la pierre que l'on peut y voir, qui porte l'inscription "A nos morts, INDOCHINE, AFRIQUE DU NORD, OPERATIONS EXTERIEURES" ?
 
-Partons visiter le jardin de la mémoire. Ssur le site du mémorial on trouve des photos, dont celle du monument dont parle la question :
+Partons visiter le jardin de la mémoire. Sur le site du mémorial on trouve des photos, dont celle du monument dont parle la question :
 <http://www.musee-armistice-14-18.fr/visiter-le-memorial/la-clairiere/le-jardin-de-la-memoire/>
 
-L'information sur la provenance de la pierre est plus difficile à trouver.  Première difficulté, on ne devait pas chercher l'origine de la pierre, plutôt se renseigner sur le lieu où elle est actuellement avec les mots AUGUSTIN TREBUCHON JARDIN MEMOIRE.
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/04c006c8-d0dc-4717-a4b0-08d2b361e064)
 
-L'information est donnée par une video audioguide postée sur youtube par le site du Mémorial de l'Armistice et non référencée sur ce site.
 
-Ensuite tout dépend du moteur que vous utilisez :
+
+
+L'information sur la provenance de la pierre est plus difficile à trouver.  Première obstacle, on ne devait pas chercher l'origine de la pierre, plutôt se renseigner sur le lieu où elle est actuellement avec les mots AUGUSTIN TREBUCHON JARDIN MEMOIRE.
+
+L'information est donnée par une video audioguide postée sur youtube par le site du Mémorial de l'Armistice et non référencée sur le site.
+
+Ensuite tout dépend du moteur de recherche que vous utilisez :
 
 Curieusement on ne trouve pas cette video par une recherche sur Google.
 
-On pouvait la trouver :
+On pouvait la trouver de plusieurs façons :
 
-En recherchant directement sur Youtube :
+**En recherchant directement sur Youtube**, sous réserve d'avoir l'idée de chercher une video.
 <https://www.youtube.com/results?search_query=augustin+trebuchon+jardin+memoire>
 
-Avec Yandex où elle apparaît en premier lien :
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/1c272546-d91c-4be3-b6f2-fa3a45dfea83)
+
+
+**Avec Yandex** où elle apparaît en premier lien :
 <https://yandex.com/search/?text=augustin+trebuchon+jardin+memoire&lr=123574&search_source=yacom_desktop_common>
 
-Avec Duckduckgo dans l'onglet Images c'est aussi le premier lien qui apparaît :
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/e1bc941d-711d-4942-8228-0ef9c36db943)
+
+
+
+**Avec Duckduckgo dans l'onglet Images** c'est aussi le premier lien qui apparaît :
 <https://duckduckgo.com/?q=augustin+trebuchon+jardin+memoire&t=ffab&iar=images&iax=images&ia=images>
 
-Avec un métamoteur qui agrége les résultats de plusieurs moteurs de recherche,  comme Startpage, on retrouve aussi la vidéo en premier lien dans l'onglet Images :
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/b87a2911-b038-4e0e-9925-7fb1cbfb213f)
+
+
+**Avec un métamoteur qui agrége les résultats de plusieurs moteurs de recherche, comme Startpage**, on retrouve aussi la vidéo en premier lien dans l'onglet Images :
 <https://www.startpage.com/sp/search>
+
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/9694cdc9-301f-42a9-b341-c6c8eaaf111e)
+
 
 <https://www.youtube.com/watch?v=cSIDTGdAdA8>
 
-L'information est disponible dans le texte de la vidéo et dans la vidéo.
+L'audio, les sous-titres et le transcript sous la video donnent l'information tant cherchée !
+
 La pierre provient du **Cloître de la Visitation** de Nantes.
 
 Flag
