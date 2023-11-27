@@ -21,7 +21,7 @@ réponse : **musee-clemenceau**
 ## **2. Quel CMS a été utilisé pour construire son site ?**
 
 On peut chercher ce qu'est un CMS.
-Une recherche QU'EST-CE QU'UN CMS nous permet de trouver ce site :
+Une recherche **QU'EST-CE QU'UN CMS** nous permet de trouver ce site :
 <https://www.salesforce.com/fr/resources/articles/definition-cms/>, qui nous donne également les CMS les plus utilisés à ce jour.
 
 ![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/2b081ac3-a116-4610-84ba-3d87a1711db0)
@@ -29,13 +29,12 @@ Une recherche QU'EST-CE QU'UN CMS nous permet de trouver ce site :
 
 Deux possibilités :
 
-1. On connaît le raccourci clavier CTRL + U
-Sur la page du musée Clemenceau, le raccourci CTRL + U nous donne accès au code source du site.
+1. On connaît le raccourci clavier **CTRL + U** ou **CTRL SHIFT + U** nous donne accès au code source du site.
 
-Une recherche CTRL +F plugin nous donne à la ligne 13 :
+Une recherche **CTRL +F plugin** nous donne à la ligne 13 :
 <!-- This site is optimized with the Yoast SEO Premium plugin v20.9 (Yoast SEO v21.0) - https://yoast.com/wordpress/plugins/seo/ -->
 
-2. On cherche sur internet QUEL CMS UTILISE SUR UN SITE
+2. On cherche sur internet **QUEL CMS UTILISE SUR UN SITE**
 
 Plusieurs sites proposent une réponse, citons celui-ci, très complet :
 https://antoine-moulard.com/webmarketing/comment-trouver-cms-utilise-site-internet/
@@ -48,9 +47,9 @@ Plusieurs outils sont proposés, on peut essayer whatcms
 
 Les deux méthodes nous donnent la même réponse, le CMS  **wordpress**
 
-##### **3. Trouvez la question suivante**
+## **3. Trouvez la question suivante**
 J'avoue, c'est tordu !
-La question 3 se trouve dans la ligne *Comment* des métadonnées de la photo...
+La question 3 se trouve dans la ligne ***Comment*** des métadonnées de la photo...
 
 On peut utiliser
 <https://jimpl.com/>
