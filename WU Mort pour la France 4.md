@@ -1,28 +1,40 @@
-## WU Mort pour la France 4
+# WU Mort pour la France 4
 
 Auteur : Kawas
 <https://ozint.eu/ozinter/4630/>
 
-### 1. Un jardin de la mémoire portant son nom a été créé. Dans quelle ville est-il situé ?
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/43ae5e5a-c479-44df-a60b-291d543320d0)
+
+
+## 1. Un jardin de la mémoire portant son nom a été créé. Dans quelle ville est-il situé ?
 
 Deux villes sont citées dans les sources : plusieurs sources touristiques et plus ou moins officielles donnent Rethondes. Wikipedia donne Rethondes sur la page d'Augustin Trébuchon.
 
-Une recherche MEMORIAL DE L'ARMISTICE COMPIEGNE OU RETHONDES nous amène au site de Compiègne agglomération qui traite de cette confusion :
+Une recherche CLAIRIEREARMIS TICE COMPIEGNE OU RETHONDES ? nous amène au site de Compiègne agglomération qui traite de cette confusion :
 
 <https://www.agglo-compiegne.fr/clairiere-de-larmistice>
->Contrairement aux idées reçues, **la clairière historique** **se situe sur le territoire de Compiègne** et non à Rethondes comme l’évoquent les livres d’histoire. La confusion entre les deux villes s’explique très simplement, bien qu’étant sur la commune de Compiègne, la gare où a été signé l’armistice ne pouvait porter le nom de Compiègne car ce nom avait déjà donné à la gare principale. Aussi, le choix se reporta alors sur le nom d’un village plus éloigné… Rethondes. En revanche, c’est bien à Rethondes que se situent notamment les monuments commémoratifs de l’Armistice du 11 novembre 1918, la statue du Maréchal Foch et le musée.
+
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/d8c0bce0-436c-499a-8b96-719019c33312)
+
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/59715bd1-1c33-4672-b570-b4d874e78d38)
 
 
 Le mémorial et le jardin sont bien situés à **Compiègne**. On peut retrouver leur adresse, route de Soissons sur le site du musée Mémorial de l'Armistice :
 <http://www.musee-armistice-14-18.fr/>
 
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/8380e360-fccd-4e10-b454-8110a57a58af)
+
+
 Et sur Maps :
 <https://www.google.com/maps/place/60200+Compi%C3%A8gne/@49.4179216,2.8874512,14z/data=!4m6!3m5!1s0x47e7d5e621cbedd7:0x40af13e81644610!8m2!3d49.417816!4d2.826145!16zL20vMDFxejd6?entry=ttu>
 
-réponse : **Compiègne**
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/d8349994-3782-471d-b003-36e5fa449676)
 
 
-### 2. Où était auparavant posée la pierre que l'on peut y voir, qui porte l'inscription "A nos morts, INDOCHINE, AFRIQUE DU NORD, OPERATIONS EXTERIEURES" ?
+la réponse était bien **Compiègne**
+
+
+## 2. Où était auparavant posée la pierre que l'on peut y voir, qui porte l'inscription "A nos morts, INDOCHINE, AFRIQUE DU NORD, OPERATIONS EXTERIEURES" ?
 
 Partons visiter le jardin de la mémoire. Ssur le site du mémorial on trouve des photos, dont celle du monument dont parle la question :
 <http://www.musee-armistice-14-18.fr/visiter-le-memorial/la-clairiere/le-jardin-de-la-memoire/>
