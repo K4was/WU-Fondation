@@ -35,7 +35,8 @@ Deux possibilités :
 
 Une recherche **CTRL +F plugin** nous donne, dans les commentaires, à la ligne 13 :
 
-![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/61ce395a-f344-409c-ae2c-f0abcbdb28c6)
+![Screenshot from 2023-11-27 19-43-18](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/da403ad7-bd00-43e7-af6b-8acc781917a0)
+
 
 
 2. On cherche sur internet **QUEL CMS UTILISE SUR UN SITE**
