@@ -6,7 +6,7 @@ Auteur : Kawas
 ![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/526db904-439e-4996-9b28-77866519d2c6)
 
 
-## 1. On connaît le fichier S ; à l'époque existait **un autre carnet de police destiné à recenser les individus soupçonnés d'espionnage puis les antimilitaristes**. Quel est son nom ?
+## 1. On connaît le fichier S ; à l'époque existait un autre carnet de police destiné à recenser les individus soupçonnés d'espionnage puis les antimilitaristes. Quel est son nom ?
 
 En recopiant les mots de la question dans la barre de recherche de Google on trouve ceci : Histoire du carnet B, ancêtre de la fiche S
 
