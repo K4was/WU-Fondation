@@ -30,9 +30,13 @@ Une recherche **QU'EST-CE QU'UN CMS** nous permet de trouver ce site :
 Deux possibilités :
 
 1. On connaît le raccourci clavier **CTRL + U** ou **CTRL SHIFT + U** nous donne accès au code source du site.
+   
+   @Elyse314 me souffle à l'oreille que **clic droit/inspecter ou afficher le code source** vous y amène aussi.
 
-Une recherche **CTRL +F plugin** nous donne à la ligne 13 :
-<!-- This site is optimized with the Yoast SEO Premium plugin v20.9 (Yoast SEO v21.0) - https://yoast.com/wordpress/plugins/seo/ -->
+Une recherche **CTRL +F plugin** nous donne, dans les commentaires, à la ligne 13 :
+
+![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/61ce395a-f344-409c-ae2c-f0abcbdb28c6)
+
 
 2. On cherche sur internet **QUEL CMS UTILISE SUR UN SITE**
 
