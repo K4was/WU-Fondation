@@ -56,7 +56,8 @@ Sur ce site, parmi d'autres, on peut convertir une date de l'histoire en une som
 ![image](https://github.com/K4was/WU-NBCTF-2023/assets/152096071/91230c05-c4dd-4671-85a1-e18dece4f619)
 
 
-La conversion pour le 1er août 1914 à 14h25 GMT donne **-1748856900OOO**
+La conversion pour le 1er août 1914 à 14h25 
+donne **-1748856900OOO**
 
 
 Flag
